@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692017725889",
+    "firebase_url": "https://shipperwebapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shipperwebapp",
+    "storage_bucket": "shipperwebapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692017725889:android:97de2700f739792859ef40",
+        "android_client_info": {
+          "package_name": "com.liveasy.shipper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692017725889-72ca4225v13oum2t09isqfdfdf57qntk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwGra6d7Gm2fIIp_KUjKKmbVXADbA9iNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692017725889-72ca4225v13oum2t09isqfdfdf57qntk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
